@@ -1,72 +1,19 @@
 {
-  "categories": [
-    { "id": "transport", "name": "Транспорт", "emoji": "🚗", "color": "#3B82F6" },
-    { "id": "nature",    "name": "Природа",   "emoji": "🌿", "color": "#10B981" },
-    { "id": "city",      "name": "Город",     "emoji": "🌆", "color": "#8B5CF6" }
-  ],
-  "puzzles": [
-    {
-      "id": "transport1",
-      "name": "Спортивный автомобиль",
-      "category": "transport",
-      "image": "assets/images/transport1.webp",
-      "thumb": "assets/thumbs/transport1.webp"
-    },
-    {
-      "id": "transport2",
-      "name": "Грузовик на закате",
-      "category": "transport",
-      "image": "assets/images/transport2.webp",
-      "thumb": "assets/thumbs/transport2.webp"
-    },
-    {
-      "id": "transport3",
-      "name": "Мотоцикл на трассе",
-      "category": "transport",
-      "image": "assets/images/transport3.webp",
-      "thumb": "assets/thumbs/transport3.webp"
-    },
-    {
-      "id": "nature1",
-      "name": "Горный пейзаж",
-      "category": "nature",
-      "image": "assets/images/nature1.webp",
-      "thumb": "assets/thumbs/nature1.webp"
-    },
-    {
-      "id": "nature2",
-      "name": "Лесное озеро",
-      "category": "nature",
-      "image": "assets/images/nature2.webp",
-      "thumb": "assets/thumbs/nature2.webp"
-    },
-    {
-      "id": "nature3",
-      "name": "Морской берег",
-      "category": "nature",
-      "image": "assets/images/nature3.webp",
-      "thumb": "assets/thumbs/nature3.webp"
-    },
-    {
-      "id": "city1",
-      "name": "Ночной город",
-      "category": "city",
-      "image": "assets/images/city1.webp",
-      "thumb": "assets/thumbs/city1.webp"
-    },
-    {
-      "id": "city2",
-      "name": "Старинная улица",
-      "category": "city",
-      "image": "assets/images/city2.webp",
-      "thumb": "assets/thumbs/city2.webp"
-    },
-    {
-      "id": "city3",
-      "name": "Мост через реку",
-      "category": "city",
-      "image": "assets/images/city3.webp",
-      "thumb": "assets/thumbs/city3.webp"
-    }
-  ]
+    "categories": [
+        {
+            "id": "transport",
+            "name": "Транспорт",
+            "emoji": "🚗",
+            "color": "#3B82F6"
+        }
+    ],
+    "puzzles": [
+        {
+            "id": "transport1",
+            "name": "Спортивный автомобиль",
+            "category": "transport",
+            "image": "images/transport1.webp",
+            "thumb": "thumbs/transport1.webp"
+        }
+    ]
 }
